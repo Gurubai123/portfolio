@@ -1,0 +1,17 @@
+
+  .album {
+    min-height: 50rem; /* Can be removed; just added for demo purposes */
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    background-color: #f7f7f7;
+  }
+  
+  .thumbnail {
+      position: relative;
+      padding: 0px;
+      margin-bottom: 20px;
+  }
+  
+  .thumbnail img {
+      width: 100%;
+  }
